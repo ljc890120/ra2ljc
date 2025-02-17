@@ -1,0 +1,17 @@
+C:\ljc\svnProject\localSvn\ra2-master\engine\bin\lua51.dll
+C:\ljc\svnProject\localSvn\ra2-master\engine\bin\OpenRA.Server.exe
+C:\ljc\svnProject\localSvn\ra2-master\engine\bin\OpenRA.Server.deps.json
+C:\ljc\svnProject\localSvn\ra2-master\engine\bin\OpenRA.Server.runtimeconfig.json
+C:\ljc\svnProject\localSvn\ra2-master\engine\bin\OpenRA.Server.dll
+C:\ljc\svnProject\localSvn\ra2-master\engine\bin\OpenRA.Server.pdb
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Server\obj\Release\OpenRA.Server.csproj.AssemblyReference.cache
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Server\obj\Release\OpenRA.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Server\obj\Release\OpenRA.Server.AssemblyInfoInputs.cache
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Server\obj\Release\OpenRA.Server.AssemblyInfo.cs
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Server\obj\Release\OpenRA.Server.csproj.CoreCompileInputs.cache
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Server\obj\Release\OpenRA.S.E370288C.Up2Date
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Server\obj\Release\OpenRA.Server.dll
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Server\obj\Release\refint\OpenRA.Server.dll
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Server\obj\Release\OpenRA.Server.pdb
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Server\obj\Release\OpenRA.Server.genruntimeconfig.cache
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Server\obj\Release\ref\OpenRA.Server.dll

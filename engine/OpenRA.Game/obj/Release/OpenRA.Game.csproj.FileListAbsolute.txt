@@ -1,0 +1,14 @@
+C:\ljc\svnProject\localSvn\ra2-master\engine\bin\lua51.dll
+C:\ljc\svnProject\localSvn\ra2-master\engine\bin\OpenRA.Game.deps.json
+C:\ljc\svnProject\localSvn\ra2-master\engine\bin\OpenRA.Game.dll
+C:\ljc\svnProject\localSvn\ra2-master\engine\bin\OpenRA.Game.pdb
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Game\obj\Release\OpenRA.Game.csproj.AssemblyReference.cache
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Game\obj\Release\OpenRA.Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Game\obj\Release\OpenRA.Game.AssemblyInfoInputs.cache
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Game\obj\Release\OpenRA.Game.AssemblyInfo.cs
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Game\obj\Release\OpenRA.Game.csproj.CoreCompileInputs.cache
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Game\obj\Release\OpenRA.G.827FF194.Up2Date
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Game\obj\Release\OpenRA.Game.dll
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Game\obj\Release\refint\OpenRA.Game.dll
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Game\obj\Release\OpenRA.Game.pdb
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Game\obj\Release\ref\OpenRA.Game.dll

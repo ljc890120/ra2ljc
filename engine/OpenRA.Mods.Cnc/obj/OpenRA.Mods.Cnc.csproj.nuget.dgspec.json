@@ -1,0 +1,330 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ljc\\svnProject\\localSvn\\ra2-master\\engine\\OpenRA.Mods.Cnc\\OpenRA.Mods.Cnc.csproj": {}
+  },
+  "projects": {
+    "C:\\ljc\\svnProject\\localSvn\\ra2-master\\engine\\OpenRA.Game\\OpenRA.Game.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ljc\\svnProject\\localSvn\\ra2-master\\engine\\OpenRA.Game\\OpenRA.Game.csproj",
+        "projectName": "OpenRA.Game",
+        "projectPath": "C:\\ljc\\svnProject\\localSvn\\ra2-master\\engine\\OpenRA.Game\\OpenRA.Game.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\ljc\\svnProject\\localSvn\\ra2-master\\engine\\OpenRA.Game\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Linguini.Bundle": {
+              "target": "Package",
+              "version": "[0.3.1, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Mono.NAT": {
+              "target": "Package",
+              "version": "[3.0.3, )"
+            },
+            "OpenRA-Eluant": {
+              "target": "Package",
+              "version": "[1.0.20, )"
+            },
+            "SharpZipLib": {
+              "target": "Package",
+              "version": "[1.3.3, )"
+            },
+            "StyleCop.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "System.Runtime.Loader": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Threading.Channels": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ljc\\svnProject\\localSvn\\ra2-master\\engine\\OpenRA.Mods.Cnc\\OpenRA.Mods.Cnc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ljc\\svnProject\\localSvn\\ra2-master\\engine\\OpenRA.Mods.Cnc\\OpenRA.Mods.Cnc.csproj",
+        "projectName": "OpenRA.Mods.Cnc",
+        "projectPath": "C:\\ljc\\svnProject\\localSvn\\ra2-master\\engine\\OpenRA.Mods.Cnc\\OpenRA.Mods.Cnc.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\ljc\\svnProject\\localSvn\\ra2-master\\engine\\OpenRA.Mods.Cnc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\ljc\\svnProject\\localSvn\\ra2-master\\engine\\OpenRA.Game\\OpenRA.Game.csproj": {
+                "projectPath": "C:\\ljc\\svnProject\\localSvn\\ra2-master\\engine\\OpenRA.Game\\OpenRA.Game.csproj"
+              },
+              "C:\\ljc\\svnProject\\localSvn\\ra2-master\\engine\\OpenRA.Mods.Common\\OpenRA.Mods.Common.csproj": {
+                "projectPath": "C:\\ljc\\svnProject\\localSvn\\ra2-master\\engine\\OpenRA.Mods.Common\\OpenRA.Mods.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "StyleCop.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ljc\\svnProject\\localSvn\\ra2-master\\engine\\OpenRA.Mods.Common\\OpenRA.Mods.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ljc\\svnProject\\localSvn\\ra2-master\\engine\\OpenRA.Mods.Common\\OpenRA.Mods.Common.csproj",
+        "projectName": "OpenRA.Mods.Common",
+        "projectPath": "C:\\ljc\\svnProject\\localSvn\\ra2-master\\engine\\OpenRA.Mods.Common\\OpenRA.Mods.Common.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\ljc\\svnProject\\localSvn\\ra2-master\\engine\\OpenRA.Mods.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\ljc\\svnProject\\localSvn\\ra2-master\\engine\\OpenRA.Game\\OpenRA.Game.csproj": {
+                "projectPath": "C:\\ljc\\svnProject\\localSvn\\ra2-master\\engine\\OpenRA.Game\\OpenRA.Game.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DiscordRichPresence": {
+              "target": "Package",
+              "version": "[1.1.3.18, )"
+            },
+            "MP3Sharp": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.Win32.Registry": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NVorbis": {
+              "target": "Package",
+              "version": "[0.10.4, )"
+            },
+            "OpenRA-FuzzyLogicLibrary": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Pfim": {
+              "target": "Package",
+              "version": "[0.10.3, )"
+            },
+            "StyleCop.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "TagLibSharp": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "rix0rrr.BeaconLib": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

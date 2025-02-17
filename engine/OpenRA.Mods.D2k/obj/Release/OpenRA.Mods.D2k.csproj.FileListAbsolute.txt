@@ -1,0 +1,13 @@
+C:\ljc\svnProject\localSvn\ra2-master\engine\bin\OpenRA.Mods.D2k.deps.json
+C:\ljc\svnProject\localSvn\ra2-master\engine\bin\OpenRA.Mods.D2k.dll
+C:\ljc\svnProject\localSvn\ra2-master\engine\bin\OpenRA.Mods.D2k.pdb
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Mods.D2k\obj\Release\OpenRA.Mods.D2k.csproj.AssemblyReference.cache
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Mods.D2k\obj\Release\OpenRA.Mods.D2k.GeneratedMSBuildEditorConfig.editorconfig
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Mods.D2k\obj\Release\OpenRA.Mods.D2k.AssemblyInfoInputs.cache
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Mods.D2k\obj\Release\OpenRA.Mods.D2k.AssemblyInfo.cs
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Mods.D2k\obj\Release\OpenRA.Mods.D2k.csproj.CoreCompileInputs.cache
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Mods.D2k\obj\Release\OpenRA.M.33E5462D.Up2Date
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Mods.D2k\obj\Release\OpenRA.Mods.D2k.dll
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Mods.D2k\obj\Release\refint\OpenRA.Mods.D2k.dll
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Mods.D2k\obj\Release\OpenRA.Mods.D2k.pdb
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Mods.D2k\obj\Release\ref\OpenRA.Mods.D2k.dll

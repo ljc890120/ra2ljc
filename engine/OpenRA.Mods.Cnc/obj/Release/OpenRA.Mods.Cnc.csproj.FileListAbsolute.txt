@@ -1,0 +1,13 @@
+C:\ljc\svnProject\localSvn\ra2-master\engine\bin\OpenRA.Mods.Cnc.deps.json
+C:\ljc\svnProject\localSvn\ra2-master\engine\bin\OpenRA.Mods.Cnc.dll
+C:\ljc\svnProject\localSvn\ra2-master\engine\bin\OpenRA.Mods.Cnc.pdb
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Mods.Cnc\obj\Release\OpenRA.Mods.Cnc.csproj.AssemblyReference.cache
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Mods.Cnc\obj\Release\OpenRA.Mods.Cnc.GeneratedMSBuildEditorConfig.editorconfig
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Mods.Cnc\obj\Release\OpenRA.Mods.Cnc.AssemblyInfoInputs.cache
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Mods.Cnc\obj\Release\OpenRA.Mods.Cnc.AssemblyInfo.cs
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Mods.Cnc\obj\Release\OpenRA.Mods.Cnc.csproj.CoreCompileInputs.cache
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Mods.Cnc\obj\Release\OpenRA.M.3AEFA5F3.Up2Date
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Mods.Cnc\obj\Release\OpenRA.Mods.Cnc.dll
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Mods.Cnc\obj\Release\refint\OpenRA.Mods.Cnc.dll
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Mods.Cnc\obj\Release\OpenRA.Mods.Cnc.pdb
+C:\ljc\svnProject\localSvn\ra2-master\engine\OpenRA.Mods.Cnc\obj\Release\ref\OpenRA.Mods.Cnc.dll
